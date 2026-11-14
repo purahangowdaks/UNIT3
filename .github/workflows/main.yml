@@ -1,15 +1,11 @@
-name: Run Tests on Push
-
-on:
-  push:
-    branches: [ main ]
-  pull_request:
-    branches: [ main ]
-
+name: Greet Workflow
+on: [push]
 jobs:
-  test:
+  say-hello:
     runs-on: ubuntu-latest
     steps:
+      - name: Say Hello
+        run: echo "Hello from GitHub Actions!"
       - name: Checkout code
         uses: actions/checkout@v4
       - name: Set up Python
@@ -18,7 +14,6 @@ jobs:
           python-version: '3.11'
       - name: Run tests
         run: |
-          echo "Running tests..."
           python3 src/app.py
           python3 tests/test_app.py
           echo "All tests passed!"
