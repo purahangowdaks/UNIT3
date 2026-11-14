@@ -3,11 +3,15 @@
 ## Project Overview
 This repo is for EL 10, EL 11 and Commit Practice - Git, GitHub, Markdown, Wiki and GitHub Pages.
 
+## Folder Structure
+- `src/` - App logic - Main code lives here
+- `tests/` - Testing scripts - Test files to check app logic
+- `docs/` - Documentation - index, setup, guides, changelog, navbar
+- `assets/` - Images - Screenshots, diagrams, logos
+
 ## Docs
 - [Home](docs/index.md)
 - [Setup](docs/setup.md)
-- [Navbar](docs/navbar.md)
-- [Style Guide](docs/style.md)
 - [Changelog](docs/changelog.md)
 
 ## Live Site
