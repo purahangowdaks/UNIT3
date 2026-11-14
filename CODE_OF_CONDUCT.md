@@ -1,39 +1,60 @@
 
-# Code of Conduct
+# Contributor Covenant Code of Conduct
 
 ## Our Pledge
-We are committed to making participation in this project a friendly, respectful, and welcoming experience for everyone.
+
+We as members, contributors, and maintainers pledge to make participation in our community a harassment-free experience for everyone.
+
+We welcome contributions from people of all backgrounds and experience levels.
 
 ## Our Standards
 
-Examples of positive behavior:
-- Being respectful and polite.
-- Accepting constructive feedback.
-- Helping other contributors.
+Examples of positive behavior include:
+
+- Showing empathy and kindness.
 - Respecting different opinions.
+- Giving and accepting constructive feedback.
+- Taking responsibility for mistakes.
+- Helping other community members.
 
-Unacceptable behavior:
+Examples of unacceptable behavior include:
+
 - Harassment or discrimination.
-- Insulting or offensive comments.
-- Publishing private information.
-- Disrespectful communication.
+- Offensive comments or language.
+- Publishing private information without permission.
+- Personal attacks or insults.
 
-## Responsibilities
+## Enforcement Responsibilities
 
-Project maintainers are responsible for clarifying and enforcing these standards.
+Project maintainers are responsible for clarifying and enforcing our standards of acceptable behavior.
 
 ## Reporting Issues
 
-If you experience or witness unacceptable behavior, please contact the repository owner:
+If you experience or witness unacceptable behavior, please report it to:
 
-**Purahan Gowda KS**
+**Project Maintainer:** Purahan Gowda KS
 
-GitHub: https://github.com/purahangowdaks
+**GitHub Profile:** https://github.com/purahangowdaks
 
-You can report concerns by opening an issue in the UNIT3 repository.
+**Repository:** https://github.com/purahangowdaks/UNIT3
 
-## Enforcement
+You can report misconduct by contacting the repository owner through GitHub.
 
-Project maintainers may remove comments, reject contributions, or restrict participation when necessary.
+## Enforcement Guidelines
 
-Thank you for helping maintain a respectful community!
+Project maintainers may take appropriate action depending on the seriousness of the violation.
+
+Possible actions include:
+
+1. Warning the contributor.
+2. Temporarily restricting participation.
+3. Removing inappropriate content.
+4. Permanently restricting participation.
+
+## Attribution
+
+This Code of Conduct is adapted from the Contributor Covenant.
+
+Visit https://www.contributor-covenant.org/ for more information.
+
+Version 2.1
