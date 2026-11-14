@@ -17,7 +17,7 @@ This project demonstrates how to create and manage a GitHub repository using Mar
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY-NAME.git
+https://github.com/purahangowdaks/UNIT3/blob/main/README.md
 ```
 
 Navigate to the project folder:
@@ -36,4 +36,4 @@ Open the project and follow the instructions provided in the repository.
 - Markdown
 
 ## Author
-Your Name
+purahangowdaks
