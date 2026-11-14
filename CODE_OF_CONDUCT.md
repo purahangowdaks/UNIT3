@@ -2,7 +2,6 @@
 # Code of Conduct
 
 ## Our Pledge
-
 We are committed to making participation in this project a friendly, respectful, and welcoming experience for everyone.
 
 ## Our Standards
