@@ -23,3 +23,6 @@ Welcome to the Unit 3 documentation.
 - [FAQ](faq.md)
 - [Return to Home](index.md)
 
+
+## Update
+- Added changelog and guides folder
