@@ -13,3 +13,8 @@
 ## Links
 - Home - index.md
 - Usage Guide - usage.md
+
+## Navigation
+- [Setup Instructions](setup.md)
+- [Usage Guide](usage.md)
+- [Return to Home](index.md)

@@ -32,3 +32,8 @@ This guide explains how to use the UNIT3 repository.
 
 - [Home](index.md)
 - [FAQ](faq.md)
+
+## Navigation
+- [Setup Instructions](setup.md)
+- [FAQ](faq.md)
+- [Return to Home](index.md)

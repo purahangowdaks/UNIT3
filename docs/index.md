@@ -1,28 +1,24 @@
-# UNIT3 Documentation
+# Unit 3 - Documentation
 
-Welcome to the UNIT3 project documentation.
+Welcome to the Unit 3 documentation.
 
-## About the Project
-
-This project demonstrates Git, GitHub, version control, and Markdown documentation.
-
-## Documentation Index
-
+## Table of Contents
+- [Setup Instructions](setup.md)
 - [Usage Guide](usage.md)
-- [Frequently Asked Questions](faq.md)
+- [FAQ](faq.md)
+- [Wiki](https://github.com/purahangowdaks/UNIT3/wiki)
 
-## Features
+## Overview
+- This repo covers Git, GitHub, Markdown and Wiki.
+- All docs are in `docs/` folder.
 
-- Git version control
-- GitHub repository management
-- Markdown formatting
-- Documentation management
-- Project collaboration
+## Quick Start
+- Clone the repo
+- Read Setup Instructions
+- Read Usage Guide
 
-## Repository
-
-[UNIT3 GitHub Repository](https://github.com/purahangowdaks/UNIT3)
-
-## Author
-
-Purahan Gowda KS
+## Links
+- [Setup Instructions](setup.md)
+- [Usage Guide](usage.md)
+- [FAQ](faq.md)
+- [Return to Home](index.md)
